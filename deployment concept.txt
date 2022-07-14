@@ -1,0 +1,8 @@
+Deployment Concept 
+we can use multiple techiques like :
+using specific URL to make feature visible only 
+delopyment on one server at a time 
+and implementing of feature toggles or configuration 
+using feature flag to activate or deactivate features 
+and for recreating we can shut down the old release and release the new one ,
+ that will help to redirect the traffic from the old to the new one 
